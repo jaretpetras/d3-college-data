@@ -1,0 +1,4 @@
+id,school,gender,city,state,lat,lng,conference,soccerLevel,academicLevel,academicKnownFor,type,enrollment,nickname,notes,website
+d1g-1,Stanford University,girls,Stanford,CA,37.4275,-122.1697,Pac-12,95,98,Engineering|Business|Economics,Private,17000,Cardinal,Elite program with top academics,https://gostanford.com
+d1g-2,University of North Carolina,girls,Chapel Hill,NC,35.9049,-79.0469,ACC,98,90,Business|Journalism|Health Sciences,Public,31000,Tar Heels,Historic powerhouse in women's soccer,https://goheels.com
+d1g-3,UCLA,girls,Los Angeles,CA,34.0689,-118.4452,Pac-12,96,92,Film|Business|Psychology,Public,45000,Bruins,Consistent top-level competitor,https://uclabruins.com
